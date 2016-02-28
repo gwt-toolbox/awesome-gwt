@@ -1,4 +1,4 @@
-# Awesome GWT (https://github.com/gwt-toolbox/gwt-awesome)
+# Awesome GWT (https://github.com/gwt-toolbox/awesome-gwt)
 
 A collection of awesome Google Web Toolkig (GWT) libraries, resources and shiny things.
 
